@@ -1,0 +1,36 @@
+{
+ "anytube": 1,
+ "kind": "game",
+ "title": "Ночной забег",
+ "file": "trailer.mp4",
+ "duration": 8.0,
+ "parts": [
+  {
+   "repo": "anytubevideo_trailer",
+   "path": "trailer.mp4",
+   "size": 816385,
+   "duration": 8.0,
+   "lfs": false
+  }
+ ],
+ "description": {
+  "chars": 0,
+  "chunks": []
+ },
+ "files": [],
+ "sale": {
+  "per_hour": 100
+ },
+ "trailer": false,
+ "paid": {
+  "parts": [],
+  "files": [],
+  "game": {
+   "repo": "anytubepaid_trailer",
+   "dir": "game",
+   "entry": "index.html",
+   "files": 33,
+   "size": 3819212
+  }
+ }
+}
